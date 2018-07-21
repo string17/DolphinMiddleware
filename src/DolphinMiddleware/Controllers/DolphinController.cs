@@ -74,8 +74,8 @@ namespace DolphinMiddleWare.Controllers
         [System.Web.Http.Route("userinfo")]
         public IHttpActionResult GetUserInfo(object param)
         {
-            //var param = JsonConvert.DeserializeObject<LoginRequest>(LoginObj.ToString());
-            return Json(_user.GetUserInfoByUsername(param.ToString()));
+            var result=_user.GetUserInfoByUsername(param.ToString());
+            return Json(result);
         }
 
 
