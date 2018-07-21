@@ -1,0 +1,12 @@
+2018-07-19 01:58:39,542 [10] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-19 01:58:40,181 [10] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-19 02:23:31,327 [12] ERROR BusinessLogic.ClientManagement InsertClient
+2018-07-19 02:33:23,033 [11] ERROR BusinessLogic.ClientManagement InsertClient
+2018-07-19 02:34:33,687 [11] ERROR BusinessLogic.ClientManagement InsertClient
+2018-07-19 02:34:33,697 [11] INFO  BusinessLogic.ClientManagement FALADE
+2018-07-19 02:38:15,710 [9] ERROR BusinessLogic.ClientManagement InsertClient
+2018-07-19 02:38:15,711 [9] INFO  BusinessLogic.ClientManagement FALADE
+2018-07-19 02:45:31,746 [35] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-19 02:45:32,141 [35] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-19 02:49:07,524 [24] ERROR BusinessLogic.ClientManagement InsertClient
+2018-07-19 02:49:07,579 [24] INFO  BusinessLogic.ClientManagement FALADE

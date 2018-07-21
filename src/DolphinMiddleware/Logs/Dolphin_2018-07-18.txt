@@ -1,0 +1,19 @@
+2018-07-18 03:25:12,837 [9] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":null,"Computername":null}</format><args>{}</args></log4net.Error>
+2018-07-18 03:25:20,983 [9] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-18 03:50:42,761 [5] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-18 03:51:22,009 [5] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-18 13:24:49,944 [14] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-18 13:24:50,702 [14] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-18 14:10:13,657 [11] ERROR BusinessLogic.AuditManagement UserLogOff
+2018-07-18 14:25:52,845 [15] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-18 14:25:53,355 [15] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-18 15:38:39,251 [10] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":null,"Computername":null}</format><args>{}</args></log4net.Error>
+2018-07-18 15:38:43,601 [10] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-18 15:46:48,495 [11] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-18 15:46:49,395 [11] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-18 15:47:40,906 [11] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-18 15:47:53,231 [11] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-19 01:33:52,971 [27] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-19 01:33:53,368 [27] ERROR BusinessLogic.UserManagement Valid credentials
+2018-07-19 01:46:24,495 [59] INFO  BusinessLogic.UserManagement <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Request: {"UserName":"admin","Email":null,"Password":"123456@","ConfirmPassword":null,"SystemIp":"::1","Computername":"FALADE"}</format><args>{}</args></log4net.Error>
+2018-07-19 01:46:25,199 [59] ERROR BusinessLogic.UserManagement Valid credentials
